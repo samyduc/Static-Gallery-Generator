@@ -1,0 +1,14 @@
+Static Gallery
+==============
+
+Description
+-----------
+
+Small web service for static gallery generation.
+
+Use flask and PIL.
+
+Author
+------
+
+Samy Duc aka nobunaga.duc@gmail.com
